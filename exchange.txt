@@ -1,0 +1,23 @@
+
+1
+{'senha': '123456', 'nome': 'Lucas Galvano', 'cpf': '11111111111'}
+2
+{'senha': '123456', 'nome': 'Lucas Galvano', 'cpf': '11111111111'}
+Depósito realizado com sucesso, seu novo saldo é de 1000.0R$
+2024-05-26 18:57:42.230118 + 1000.00 REAL CT: 0.0 TX 0.00 REAL 1000.00 BTC: 0.00 ETH: 0.00 XRP: 0.00
+Saque realizado com sucesso, seu novo saldo é de 900.0R$
+Compra realizada com sucesso, agora você possui 5 Ripple
+Nome: Lucas Galvano 
+CPF: 111.111.111-11 
+Carteira 
+Reais: 885.96 
+Bitcoin: 0 
+Ethereum: 0 
+Ripple: 5 
+
+Venda realizada com sucesso, agora você possui 0 ripples e 899.72R$
+A cotação atual está em 
+ Bitcoin: 376502.3 
+ Ethereum: 20214.9 
+ Ripple: 2.9
+Obrigado por utilizar nosso exchange, volte sempre!
