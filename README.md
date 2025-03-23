@@ -64,7 +64,7 @@ Este projeto foi desenvolvido como parte do curso de **Fundamentos de Algoritmos
 
 ### Passos para Execução
 1. Clone o repositório:
-   - git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   - git clone https://github.com/LucasGalvano/Exchange-Python.git
 
 ### Navegue até o diretório do projeto
    - cd Exchange-Python
